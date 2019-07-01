@@ -1,2 +1,8 @@
 {
+    "baseUrl": "http://miyosoft.github.io/lucat",
+    "maxBannerClickTimes": 10,
+    "maxInterstitialClickTimes": 10,
+    "showBanner": true,
+    "showInterstitial": true,
+    "splashImg":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561973403139&di=a987d1da3e3a30c70a8da4bfb3ee8e3f&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Fwap720%2F006JOJQuly1fsqmtu4fckj31bg0qoaf5.jpg"
 }
